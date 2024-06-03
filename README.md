@@ -66,6 +66,7 @@ Credit Card Context:
 - `com.westpac.assesment.creditcard.domain.validation`
 - `com.westpac.assesment.creditcard.view` | activities, fragments, etc..
 - `com.westpac.assesment.creditcard.view.components` | custom/composed
+
 Core Context:
 - `com.westpac.assesment.core` | core functionalities shared in other contexts
 - `com.westpac.assesment.core.data`
