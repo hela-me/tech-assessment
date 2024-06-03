@@ -1,5 +1,5 @@
 
-# Westpac Assessment
+# Tcechnical Assessment
 
 This assessment is to create an Android app that uses the below API.
 
